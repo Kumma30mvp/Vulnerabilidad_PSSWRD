@@ -2,8 +2,8 @@
 Proyecto Final de Estadística y Probabilidades
 --------------------------------------------------
 ---
-title: La vulnerabilidad de las contraseñas de redes sociales hoy en día desde la generación centenial hasta la Generación X de la población de Lima metropolitana
-date: " 01/05/23"
+# La vulnerabilidad de las contraseñas de redes sociales hoy en día desde la generación centenial hasta la Generación X de la población de Lima metropolitana
+
 ---
 
 ------------------------------------------------------------------------
